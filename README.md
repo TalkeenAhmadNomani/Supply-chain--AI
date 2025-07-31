@@ -1,6 +1,6 @@
  # Supply Chain AI Automation & Analysis System
 
-![Uploading Screenshot 2025-07-31 155907.png…]()
+<img width="1352" height="675" alt="Screenshot 2025-07-31 155907" src="https://github.com/user-attachments/assets/04fc57e2-d0e5-4d4b-9859-1bd17683fa62" />
 
 
 ## An end-to-end AI-driven supply chain project that automates data ingestion using n8n, stores it in Supabase (PostgreSQL), and leverages Quadratic AI for real-time KPI tracking and data-driven decision making via natural language chat.
@@ -16,6 +16,9 @@
 📊 AI-powered Data Analysis using Quadratic AI
 
 💬 Natural Language Chat Interface to query metrics, KPIs, and trends
+
+
+
 
 ✅ No manual data entry — full automation
 
