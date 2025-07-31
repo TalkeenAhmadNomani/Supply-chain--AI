@@ -5,7 +5,8 @@
 
 ## An end-to-end AI-driven supply chain project that automates data ingestion using n8n, stores it in Supabase (PostgreSQL), and leverages Quadratic AI for real-time KPI tracking and data-driven decision making via natural language chat.
 
-🚀 Features
+
+## Features
 📧 Automated Data Ingestion from emails using n8n workflows
 
 📤 Email Parsing & JSON Transformation
@@ -18,9 +19,17 @@
 
 ✅ No manual data entry — full automation
 
-🛠️ Tech Stack
+## Tech Stack
 Tool	Purpose
 n8n	No-code automation tool to fetch and parse emails
 Supabase	Cloud-hosted PostgreSQL database
 Quadratic AI	AI chat interface for analysis & reporting
-JSON	Intermediate data format between tools
+JSON	Intermediate data format between toolsUse Case: Supply Chain Intelligence
+
+## This project is designed for teams that want to:
+
+Track and analyze order fulfillment, inventory status, supplier lead times, and more
+
+Enable non-technical stakeholders to interact with data using natural language
+
+Replace manual data entry and dashboard generation with real-time, AI-powered insights
